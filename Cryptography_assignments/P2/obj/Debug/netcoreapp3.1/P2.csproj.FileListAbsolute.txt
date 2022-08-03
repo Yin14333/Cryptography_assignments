@@ -1,0 +1,12 @@
+/Users/yin/Github/ASU-Projects/P2/bin/Debug/netcoreapp3.1/P2.deps.json
+/Users/yin/Github/ASU-Projects/P2/bin/Debug/netcoreapp3.1/P2.runtimeconfig.json
+/Users/yin/Github/ASU-Projects/P2/bin/Debug/netcoreapp3.1/P2.runtimeconfig.dev.json
+/Users/yin/Github/ASU-Projects/P2/bin/Debug/netcoreapp3.1/P2.dll
+/Users/yin/Github/ASU-Projects/P2/bin/Debug/netcoreapp3.1/P2.pdb
+/Users/yin/Github/ASU-Projects/P2/obj/Debug/netcoreapp3.1/P2.csprojAssemblyReference.cache
+/Users/yin/Github/ASU-Projects/P2/obj/Debug/netcoreapp3.1/P2.AssemblyInfoInputs.cache
+/Users/yin/Github/ASU-Projects/P2/obj/Debug/netcoreapp3.1/P2.AssemblyInfo.cs
+/Users/yin/Github/ASU-Projects/P2/obj/Debug/netcoreapp3.1/P2.csproj.CoreCompileInputs.cache
+/Users/yin/Github/ASU-Projects/P2/obj/Debug/netcoreapp3.1/P2.dll
+/Users/yin/Github/ASU-Projects/P2/obj/Debug/netcoreapp3.1/P2.pdb
+/Users/yin/Github/ASU-Projects/P2/obj/Debug/netcoreapp3.1/P2.genruntimeconfig.cache

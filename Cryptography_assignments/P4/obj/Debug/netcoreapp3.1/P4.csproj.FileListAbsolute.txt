@@ -1,0 +1,12 @@
+/Users/yin/Github/ASU-Projects/P4/bin/Debug/netcoreapp3.1/P4.deps.json
+/Users/yin/Github/ASU-Projects/P4/bin/Debug/netcoreapp3.1/P4.runtimeconfig.json
+/Users/yin/Github/ASU-Projects/P4/bin/Debug/netcoreapp3.1/P4.runtimeconfig.dev.json
+/Users/yin/Github/ASU-Projects/P4/bin/Debug/netcoreapp3.1/P4.dll
+/Users/yin/Github/ASU-Projects/P4/bin/Debug/netcoreapp3.1/P4.pdb
+/Users/yin/Github/ASU-Projects/P4/obj/Debug/netcoreapp3.1/P4.csprojAssemblyReference.cache
+/Users/yin/Github/ASU-Projects/P4/obj/Debug/netcoreapp3.1/P4.AssemblyInfoInputs.cache
+/Users/yin/Github/ASU-Projects/P4/obj/Debug/netcoreapp3.1/P4.AssemblyInfo.cs
+/Users/yin/Github/ASU-Projects/P4/obj/Debug/netcoreapp3.1/P4.csproj.CoreCompileInputs.cache
+/Users/yin/Github/ASU-Projects/P4/obj/Debug/netcoreapp3.1/P4.dll
+/Users/yin/Github/ASU-Projects/P4/obj/Debug/netcoreapp3.1/P4.pdb
+/Users/yin/Github/ASU-Projects/P4/obj/Debug/netcoreapp3.1/P4.genruntimeconfig.cache

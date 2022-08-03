@@ -1,0 +1,12 @@
+/Users/yin/Github/ASU-Projects/P1_1/bin/Debug/netcoreapp3.1/P1_1.deps.json
+/Users/yin/Github/ASU-Projects/P1_1/bin/Debug/netcoreapp3.1/P1_1.runtimeconfig.json
+/Users/yin/Github/ASU-Projects/P1_1/bin/Debug/netcoreapp3.1/P1_1.runtimeconfig.dev.json
+/Users/yin/Github/ASU-Projects/P1_1/bin/Debug/netcoreapp3.1/P1_1.dll
+/Users/yin/Github/ASU-Projects/P1_1/bin/Debug/netcoreapp3.1/P1_1.pdb
+/Users/yin/Github/ASU-Projects/P1_1/obj/Debug/netcoreapp3.1/P1_1.csprojAssemblyReference.cache
+/Users/yin/Github/ASU-Projects/P1_1/obj/Debug/netcoreapp3.1/P1_1.AssemblyInfoInputs.cache
+/Users/yin/Github/ASU-Projects/P1_1/obj/Debug/netcoreapp3.1/P1_1.AssemblyInfo.cs
+/Users/yin/Github/ASU-Projects/P1_1/obj/Debug/netcoreapp3.1/P1_1.csproj.CoreCompileInputs.cache
+/Users/yin/Github/ASU-Projects/P1_1/obj/Debug/netcoreapp3.1/P1_1.dll
+/Users/yin/Github/ASU-Projects/P1_1/obj/Debug/netcoreapp3.1/P1_1.pdb
+/Users/yin/Github/ASU-Projects/P1_1/obj/Debug/netcoreapp3.1/P1_1.genruntimeconfig.cache
